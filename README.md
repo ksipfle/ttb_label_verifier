@@ -1,4 +1,4 @@
-# TTB
+# TTB LABEL VERIFIER
 
 Web app to replace manual inspection of liquor labels.
 
