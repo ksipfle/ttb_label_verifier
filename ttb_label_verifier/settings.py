@@ -25,7 +25,7 @@ SECRET_KEY = '455abx3q(#bnojulfz%asp-z6aeo1)ktswx&hi(pa2s_fl-4gg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["ultimate-ultimates.com", ]
+ALLOWED_HOSTS = ['142.11.238.224', 'ultimate-ultimates.com', ]
 
 
 # Application definition
